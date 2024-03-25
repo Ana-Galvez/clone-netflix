@@ -1,10 +1,14 @@
 import React from 'react'
-import StyleHome from '../styled/h1'
+import '../styled/home.css'
 
 const Home = ()=>{
   return (
-    <div>
-      <StyleHome>Home</StyleHome>
+    <div className='home'>
+      {/* Header */}
+
+      {/* Banner */}
+
+      {/* Rows */}
     </div>
   )
 }
