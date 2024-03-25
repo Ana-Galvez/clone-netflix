@@ -1,4 +1,6 @@
-# Inicialización del proyecto
+# Realización de sitio tipo clon de netflix con React
+
+### Inicialización del proyecto
 
 - npx create-react-app clone-netflix --template redux
 
