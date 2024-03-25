@@ -1,9 +1,10 @@
 import React from 'react'
+import StyleHome from '../styled/h1'
 
 const Paypal = ()=>{
   return (
     <div>
-      <h1>Paypal</h1>
+      <StyleHome>Paypal</StyleHome>
     </div>
   )
 }

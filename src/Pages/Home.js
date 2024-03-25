@@ -1,9 +1,10 @@
 import React from 'react'
+import StyleHome from '../styled/h1'
 
 const Home = ()=>{
   return (
     <div>
-      <h1>Home</h1>
+      <StyleHome>Home</StyleHome>
     </div>
   )
 }

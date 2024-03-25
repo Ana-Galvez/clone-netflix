@@ -1,9 +1,10 @@
 import React from 'react'
+import StyleHome from '../styled/h1'
 
 const Login = () => {
   return (
     <div>
-      <h1>Login</h1>
+      <StyleHome>Login</StyleHome>
     </div>
   )
 }
