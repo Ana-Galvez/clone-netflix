@@ -1,16 +1,17 @@
-import React from 'react'
-import '../styled/home.css'
+import React from "react";
+import "../styled/Home.css";
+import Header from "../components/Header";
 
-const Home = ()=>{
+const Home = () => {
   return (
-    <div className='home'>
-      {/* Header */}
+    <div className="home">
+      <Header />
 
       {/* Banner */}
 
       {/* Rows */}
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
