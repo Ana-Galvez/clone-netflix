@@ -1,5 +1,8 @@
-.header{
+.header {
   background-color: #000;
+  position: fixed;
+  width: 100vw;
+  top: 0;
 }
 
 .header__container {
@@ -7,7 +10,7 @@
   justify-content: space-between;
   align-items: center;
   height: 10vh;
-  margin: 0.5% 2%;
+  margin: 0 2%;
 }
 
 .header__logo,
@@ -21,4 +24,8 @@
 
 .header__avatar {
   height: 50%;
+}
+
+.header__transparente50 {
+  opacity: 50%;
 }

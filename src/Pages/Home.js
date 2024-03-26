@@ -6,6 +6,28 @@ const Home = () => {
   return (
     <div className="home">
       <Header />
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
+      <h1>hola</h1>
 
       {/* Banner */}
 
