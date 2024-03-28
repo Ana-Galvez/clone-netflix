@@ -1,35 +1,14 @@
 import React from "react";
 import "../styled/Home.css";
 import Header from "../components/Header";
+import Banner from "../components/Banner";
 
 const Home = () => {
   return (
     <div className="home">
       <Header />
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
-      <h1>hola</h1>
 
-      {/* Banner */}
+      <Banner/>
 
       {/* Rows */}
     </div>
