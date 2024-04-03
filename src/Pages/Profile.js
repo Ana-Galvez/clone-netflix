@@ -5,7 +5,22 @@ import Header from '../components/Header'
 const Profile = () => {
   return (
     <div>
-      {/* <Header/> Prueba para ver si el logo de netflix manda al home */}
+      <Header/> Prueba para ver si el logo de netflix manda al home
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
+      <StyleHome>Profile</StyleHome>
       <StyleHome>Profile</StyleHome>
     </div>
   )
