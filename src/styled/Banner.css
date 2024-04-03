@@ -1,15 +1,8 @@
 .banner{
   width: 100%;
-  height: 60vh;
+  height: 70vh;
   top:7%;
-}
-
-.banner__img{
-  background-image: url('../../public/image/banner.jpg') ;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
+  color:#fff;
 }
 
 .banner__contents{
@@ -44,8 +37,7 @@
 .banner__description{
   width: 45rem;
   max-width: 50%;
-  font-size: 0.8rem;
+  font-size: 1rem;
   padding-top: 1rem;
-  line-height:2;
   text-align: justify;
 }

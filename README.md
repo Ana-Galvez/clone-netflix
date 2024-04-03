@@ -17,7 +17,7 @@
 
 ### App.js - layout
 
-- creación de rutas
+- creación de rutas.
 - renderización de Login o las otras páginas dependiendo si ya hay usuario o no.
 
 ### Carpeta Image
@@ -26,10 +26,20 @@
 
 ### Home.js
 
-- Estructura básica y creación home.css.
+- Estructura básica y creación Home.css.
 
 ### Header.js y Header.css
 
 - Agregado de img puestas con const.
 - Agregado de transparecia al 50% al hacer scroll, con useState y useEffect.
 - Linkeo del logo hacia Home y el avatar a Profile.
+
+### Banner.js y Banner.css
+
+-Img provisoria hasta poner la api()
+-Estructura básica y creación y estilos en Banner.css.
+
+### axios.js y Requests.js
+
+-Implementación de la api de tmbd.
+-Agregado api en banner.
