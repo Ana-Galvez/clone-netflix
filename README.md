@@ -42,4 +42,4 @@
 ### axios.js y Requests.js
 
 -Implementación de la api de tmbd.
--Agregado api en banner.
+-Agregado api en banner y en las rows.
